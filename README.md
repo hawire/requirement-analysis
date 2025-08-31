@@ -68,7 +68,9 @@ Use Case Diagrams visualize the **interactions between users (actors) and the sy
 - Helps identify all possible user interactions and scenarios.  
 - Supports requirement validation and documentation.  
 
-![diagram](diagram.drawio.png)
+<img width="2044" height="2604" alt="image" src="https://github.com/user-attachments/assets/b2346302-b848-4db8-bb55-db750f55e8d6" />
+
+
 
 
 
