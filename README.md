@@ -70,7 +70,7 @@ Use Case Diagrams visualize the **interactions between users (actors) and the sy
 
 <img width="2404" height="2564" alt="image" src="https://github.com/user-attachments/assets/7bc69ff8-768c-4627-a54d-f5da02631db2" />
 
-
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b2c0f31e-3f41-4eac-b6eb-8f397941dd92" />
 
 
 
