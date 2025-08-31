@@ -68,7 +68,8 @@ Use Case Diagrams visualize the **interactions between users (actors) and the sy
 - Helps identify all possible user interactions and scenarios.  
 - Supports requirement validation and documentation.  
 
-<img diagram.drawio.png/>
+![diagram](diagram.drawio.png)
+
 
 
 *Actors:* Customer, Admin, Payment Gateway  
