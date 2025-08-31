@@ -68,7 +68,8 @@ Use Case Diagrams visualize the **interactions between users (actors) and the sy
 - Helps identify all possible user interactions and scenarios.  
 - Supports requirement validation and documentation.  
 
-<img width="2044" height="2604" alt="image" src="https://github.com/user-attachments/assets/b2346302-b848-4db8-bb55-db750f55e8d6" />
+<img width="2404" height="2564" alt="image" src="https://github.com/user-attachments/assets/7bc69ff8-768c-4627-a54d-f5da02631db2" />
+
 
 
 
