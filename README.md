@@ -68,7 +68,7 @@ Use Case Diagrams visualize the **interactions between users (actors) and the sy
 - Helps identify all possible user interactions and scenarios.  
 - Supports requirement validation and documentation.  
 
- 
+ ![Booking System Use Case](alx-booking-uc.png)  
 
 *Actors:* Customer, Admin, Payment Gateway  
 *Use Cases:* Search Property, Book Property, Make Payment, View Booking, Manage Listings  
