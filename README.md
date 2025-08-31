@@ -92,3 +92,22 @@ Acceptance Criteria are **conditions that a software feature must satisfy to be 
 - Confirmation receipt is sent to the user upon successful booking.  
 - Booking should appear in the user's account history.
 
+
+
+
+## Acceptance Criteria
+
+**Definition:**  
+Acceptance Criteria are conditions that a software feature must satisfy to be accepted by stakeholders.
+
+**Importance:**  
+- Provides a clear checklist for developers and testers.  
+- Ensures features meet stakeholder expectations.  
+- Reduces miscommunication and rework.
+
+**Example – Checkout Feature:**  
+- User must be able to select a property and add it to the cart.  
+- Payment should be processed securely.  
+- Confirmation receipt is sent to the user upon successful booking.  
+- Booking should appear in the user's account history.
+
